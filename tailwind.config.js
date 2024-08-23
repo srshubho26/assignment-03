@@ -3,7 +3,7 @@ module.exports = {
     content: ["*"],
     theme: {
         fontFamily: {
-            "manrope": ["Manrope", "sans-serif"]
+            "interCustom": ["Inter", "sans-serif"]
           }
     },
     plugins: [],
